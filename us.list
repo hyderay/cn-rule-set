@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,redditspace.com
+DOMAIN,www.redditstatic.com
 
 # Spotify
 DOMAIN-SUFFIX,pscdn.co
@@ -32,6 +33,7 @@ DOMAIN-SUFFIX,emergetools.com
 DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,google
 DOMAIN-SUFFIX,gstatic.com
+DOMAIN,www.recaptcha.net
 
 # Youtube
 DOMAIN-SUFFIX,youtube.com

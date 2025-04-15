@@ -1,5 +1,56 @@
+# Tiktok
 DOMAIN-KEYWORD,tiktok
-DOMAIN-SUFFIX,spotify.com
-DOMAIN-SUFFIX,ibyteimg.com
-DOMAIN-SUFFIX,appsflyersdk.com
 
+# Instagram
+DOMAIN-KEYWORD,instagram
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,instagr.am
+
+# Reddit
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,reddit.com
+
+# Spotify
+DOMAIN-SUFFIX,pscdn.co
+DOMAIN-SUFFIX,scdn.co
+DOMAIN-SUFFIX,spoti.fi
+DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,spotifycdn.com
+DOMAIN-SUFFIX,spotifycdn.net
+
+# Twitter
+DOMAIN-SUFFIX,periscope.tv
+DOMAIN-SUFFIX,pscp.tv
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,twimg.co
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twimg.org
+DOMAIN-SUFFIX,twitpic.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,twitter.jp
+DOMAIN-SUFFIX,vine.co
+DOMAIN-SUFFIX,x.com
+
+# Google
+DOMAIN-KEYWORD,gmail
+DOMAIN-KEYWORD,google
+DOMAIN-SUFFIX,gstatic.com
+
+# Youtube
+DOMAIN-KEYWORD,youtube
+DOMAIN,yt3.ggpht.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,yt.be
+DOMAIN-SUFFIX,ytimg.com
+
+# Discord
+DOMAIN-SUFFIX,discord.co
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discord.gg
+DOMAIN-SUFFIX,discord.media
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discordapp.net

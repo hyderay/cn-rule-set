@@ -34,7 +34,7 @@ DOMAIN-KEYWORD,google
 DOMAIN-SUFFIX,gstatic.com
 
 # Youtube
-DOMAIN-KEYWORD,youtube
+DOMAIN-SUFFIX,youtube.com
 DOMAIN,yt3.ggpht.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,gvt2.com

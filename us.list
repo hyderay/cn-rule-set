@@ -54,3 +54,9 @@ DOMAIN-SUFFIX,discordapp.net
 
 # Facebook
 DOMAIN-SUFFIX,fbsbx.com
+
+# Openai
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,oaiusercontent.com
+

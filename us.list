@@ -46,7 +46,6 @@ DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
 
 # Discord
-DOMAIN-SUFFIX,discord.co
 DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,discord.gg
 DOMAIN-SUFFIX,discord.media

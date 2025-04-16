@@ -51,3 +51,6 @@ DOMAIN-SUFFIX,discord.gg
 DOMAIN-SUFFIX,discord.media
 DOMAIN-SUFFIX,discordapp.com
 DOMAIN-SUFFIX,discordapp.net
+
+# Facebook
+DOMAIN-SUFFIX,fbsbx.com

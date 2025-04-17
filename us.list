@@ -39,7 +39,6 @@ DOMAIN,www.recaptcha.net
 # Youtube
 DOMAIN-SUFFIX,youtube.com
 DOMAIN,yt3.ggpht.com
-DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,yt.be

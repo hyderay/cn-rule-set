@@ -60,7 +60,7 @@ DOMAIN-SUFFIX,oaiusercontent.com
 
 # Apple
 DOMAIN,apple-relay.apple.com
-DOMAIN,token.safebrowsing.apple
+DOMAIN-SUFFIX,safebrowsing.apple
 
 # Github
 DOMAIN-SUFFIX,github.com

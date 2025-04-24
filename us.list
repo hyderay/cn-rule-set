@@ -34,6 +34,7 @@ DOMAIN-SUFFIX,x.com
 DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,google
 DOMAIN-SUFFIX,gstatic.com
+DOMAIN,www.recaptcha.net
 
 # Youtube
 DOMAIN-SUFFIX,youtube.com

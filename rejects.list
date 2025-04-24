@@ -2,6 +2,6 @@ DOMAIN-SUFFIX,telemetrydeck.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,branch.io
 DOMAIN,census-app-x.scorecardresearch.com
-DOMAIN-SUFFIX,emergetools.com
-DOMAIN-SUFFIX,appcenter.ms
+DOMAIN,reaper.emergetools.com
+DOMAIN,api.appcenter.ms
 DOMAIN,analytics.adjust.com

@@ -10,11 +10,9 @@ DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,instagr.am
 
 # Reddit
-DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-KEYWORD,reddit
 DOMAIN-SUFFIX,redd.it
-DOMAIN-SUFFIX,reddit.com
-DOMAIN-SUFFIX,redditspace.com
-DOMAIN,www.redditstatic.com
+
 
 # Spotify
 DOMAIN-SUFFIX,pscdn.co

@@ -16,8 +16,7 @@ DOMAIN-SUFFIX,redd.it
 # Spotify
 DOMAIN-SUFFIX,pscdn.co
 DOMAIN-SUFFIX,scdn.co
-DOMAIN-SUFFIX,spotify.com
-DOMAIN-SUFFIX,spotifycdn.com
+DOMAIN-KEYWORD,spotify
 
 # Twitter
 DOMAIN-SUFFIX,t.co

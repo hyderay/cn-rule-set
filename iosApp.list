@@ -25,7 +25,6 @@ DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twitter.jp
 DOMAIN-SUFFIX,x.com
-//DOMAIN-SUFFIX,emergetools.com
 
 # Google
 DOMAIN-KEYWORD,gmail

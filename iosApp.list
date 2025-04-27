@@ -61,3 +61,6 @@ DOMAIN-KEYWORD,github
 # Whatsapp
 DOMAIN-SUFFIX,whatsapp.net
 DOMAIN-SUFFIX,whatsapp.com
+
+# Others
+DOMAIN,api.revenuecat.com

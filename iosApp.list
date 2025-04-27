@@ -49,6 +49,7 @@ DOMAIN-SUFFIX,fbsbx.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,oaistatic.com
 
 # Apple
 DOMAIN,apple-relay.apple.com

@@ -51,10 +51,6 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,oaistatic.com
 
-# Apple
-DOMAIN,apple-relay.apple.com
-DOMAIN-SUFFIX,safebrowsing.apple
-
 # Github
 DOMAIN-KEYWORD,github
 
@@ -62,7 +58,10 @@ DOMAIN-KEYWORD,github
 DOMAIN-SUFFIX,whatsapp.net
 DOMAIN-SUFFIX,whatsapp.com
 
+# Bankings
+DOMAIN-KEYWORD,monzo
+DOMAIN-KEYWORD,lloyds
+
 # Others
-DOMAIN,api.revenuecat.com
 DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,trading212.com

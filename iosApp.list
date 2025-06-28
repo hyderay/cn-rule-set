@@ -68,3 +68,5 @@ DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,trading212.com
 DOMAIN-KEYWORD,microsoft
 DOMAIN-SUFFIX,telemetrydeck.com
+DOMAIN,api.snapkit.com
+DOMAIN,api.revenuecat.com

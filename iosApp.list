@@ -62,10 +62,14 @@ DOMAIN-SUFFIX,whatsapp.com
 # Bankings
 DOMAIN-KEYWORD,monzo
 DOMAIN-KEYWORD,lloyds
+DOMAIN-SUFFIX,trading212.com
+
+# Anki
+DOMAIN,api.ankiapp.com
+DOMAIN-SUFFIX,sentry.io
 
 # Others
 DOMAIN-SUFFIX,office365.com
-DOMAIN-SUFFIX,trading212.com
 DOMAIN-KEYWORD,microsoft
 DOMAIN-SUFFIX,telemetrydeck.com
 DOMAIN,api.snapkit.com

@@ -68,6 +68,9 @@ DOMAIN-SUFFIX,trading212.com
 DOMAIN,api.ankiapp.com
 DOMAIN-SUFFIX,sentry.io
 
+# Swiftgram
+DOMAIN-SUFFIX,swiftgram.app
+
 # Others
 DOMAIN-SUFFIX,office365.com
 DOMAIN-KEYWORD,microsoft

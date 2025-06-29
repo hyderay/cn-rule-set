@@ -74,6 +74,5 @@ DOMAIN-SUFFIX,swiftgram.app
 # Others
 DOMAIN-SUFFIX,office365.com
 DOMAIN-KEYWORD,microsoft
-DOMAIN-SUFFIX,telemetrydeck.com
 DOMAIN,api.snapkit.com
 DOMAIN,api.revenuecat.com

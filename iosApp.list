@@ -1,7 +1,6 @@
 # Tiktok
 DOMAIN-KEYWORD,tiktok
 DOMAIN-SUFFIX,ibyteimg.com
-DOMAIN-SUFFIX,appsflyersdk.com
 
 # Instagram
 DOMAIN-SUFFIX,instagram.com
@@ -29,8 +28,6 @@ DOMAIN-SUFFIX,emergetools.com
 DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,google
 DOMAIN-SUFFIX,gstatic.com
-DOMAIN,www.recaptcha.net
-DOMAIN-SUFFIX,ampproject.org
 
 # Youtube
 DOMAIN-SUFFIX,youtube.com
@@ -76,3 +73,8 @@ DOMAIN-SUFFIX,office365.com
 DOMAIN-KEYWORD,microsoft
 DOMAIN,api.snapkit.com
 DOMAIN,api.revenuecat.com
+DOMAIN,secure.gravatar.com
+DOMAIN,sessions.bugsnag.com
+DOMAIN,www.recaptcha.net
+DOMAIN-SUFFIX,ampproject.org
+DOMAIN-SUFFIX,appsflyersdk.com

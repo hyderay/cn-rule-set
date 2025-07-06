@@ -22,7 +22,6 @@ DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twitter.jp
 DOMAIN-SUFFIX,x.com
-DOMAIN-SUFFIX,emergetools.com
 
 # Google
 DOMAIN-KEYWORD,gmail
@@ -71,10 +70,5 @@ DOMAIN-SUFFIX,swiftgram.app
 # Others
 DOMAIN-SUFFIX,office365.com
 DOMAIN-KEYWORD,microsoft
-DOMAIN,api.snapkit.com
-DOMAIN,api.revenuecat.com
-DOMAIN,secure.gravatar.com
-DOMAIN,sessions.bugsnag.com
-DOMAIN,www.recaptcha.net
-DOMAIN-SUFFIX,ampproject.org
-DOMAIN-SUFFIX,appsflyersdk.com
+DOMAIN-SUFFIX,office.com
+DOMAIN-SUFFIX,officeapps.live.com

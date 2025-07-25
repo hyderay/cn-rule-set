@@ -85,3 +85,6 @@ DOMAIN,ohttp-relay1.fastly-edge.com
 DOMAIN,api.snapkit.com
 DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN,sessions.bugsnag.com
+DOMAIN-SUFFIX,amplitude.com
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,cloudfront.net

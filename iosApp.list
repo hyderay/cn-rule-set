@@ -84,3 +84,4 @@ DOMAIN,www.recaptcha.net
 DOMAIN,ohttp-relay1.fastly-edge.com
 DOMAIN,api.snapkit.com
 DOMAIN-SUFFIX,appsflyersdk.com
+DOMAIN,sessions.bugsnag.com

@@ -68,11 +68,20 @@ DOMAIN-SUFFIX,sentry.io
 # Swiftgram
 DOMAIN-SUFFIX,swiftgram.app
 
-# Others
-DOMAIN-SUFFIX,office365.com
-DOMAIN-KEYWORD,microsoft
+# Surge
+DOMAIN,www.surge-activation.com
+
+# Outlook
+DOMAIN-SUFFIX,skype.com
+DOMAIN-SUFFIX,office.net
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,officeapps.live.com
+DOMAIN-SUFFIX,office365.com
+
+# Others
+DOMAIN-KEYWORD,microsoft
 DOMAIN,static.admaster.cc
 DOMAIN-SUFFIX,branch.io
 DOMAIN,nom.telemetrydeck.com
+DOMAIN,ocsp.digicert.com
+DOMAIN,in.appcenter.ms

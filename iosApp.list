@@ -80,8 +80,3 @@ DOMAIN-SUFFIX,office365.com
 
 # Others
 DOMAIN-KEYWORD,microsoft
-DOMAIN,static.admaster.cc
-DOMAIN-SUFFIX,branch.io
-DOMAIN,nom.telemetrydeck.com
-DOMAIN,ocsp.digicert.com
-DOMAIN,in.appcenter.ms

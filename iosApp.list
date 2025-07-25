@@ -73,3 +73,6 @@ DOMAIN-SUFFIX,office365.com
 DOMAIN-KEYWORD,microsoft
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,officeapps.live.com
+DOMAIN,static.admaster.cc
+DOMAIN-SUFFIX,branch.io
+DOMAIN,nom.telemetrydeck.com

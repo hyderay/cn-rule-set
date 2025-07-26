@@ -48,7 +48,7 @@ DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
 
 # Discord
-DOMAIN-KEYWORD,discord
+#DOMAIN-KEYWORD,discord
 
 # Facebook
 DOMAIN-SUFFIX,fbsbx.com

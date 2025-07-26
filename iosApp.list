@@ -14,7 +14,7 @@ DOMAIN-SUFFIX,instagr.am
 DOMAIN-SUFFIX,fbcdn.net
 
 # Reddit
-DOMAIN-KEYWORD,reddit
+#DOMAIN-KEYWORD,reddit
 DOMAIN-SUFFIX,redd.it
 
 # Spotify

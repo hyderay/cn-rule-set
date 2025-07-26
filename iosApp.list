@@ -15,11 +15,14 @@ DOMAIN-SUFFIX,fbcdn.net
 
 # Reddit
 #DOMAIN-KEYWORD,reddit
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redditspace.com
+DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,redd.it
 
 # Spotify
 DOMAIN-SUFFIX,scdn.co
-DOMAIN-KEYWORD,spotify
+#DOMAIN-KEYWORD,spotify
 
 # Twitter
 DOMAIN-SUFFIX,t.co
@@ -54,7 +57,7 @@ DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,oaistatic.com
 
 # Github
-DOMAIN-KEYWORD,github
+#DOMAIN-KEYWORD,github
 
 # Whatsapp
 DOMAIN-SUFFIX,whatsapp.net

@@ -49,6 +49,11 @@ DOMAIN-SUFFIX,ytimg.com
 
 # Discord
 #DOMAIN-KEYWORD,discord
+DOMAIN-SUFFIX,discord.gg
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discord.media
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discordapp.net
 
 # Facebook
 DOMAIN-SUFFIX,fbsbx.com

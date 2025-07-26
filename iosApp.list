@@ -108,3 +108,4 @@ DOMAIN,census-app-x.scorecardresearch.com
 DOMAIN,cdn.branch.io
 DOMAIN-SUFFIX,sentry.io
 DOMAIN,in.appcenter.ms
+DOMAIN,ocsp.digicert.com

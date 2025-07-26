@@ -80,7 +80,7 @@ DOMAIN-SUFFIX,office365.com
 
 # Others
 DOMAIN-KEYWORD,microsoft
-DOMAIN-SUFFIX,recaptcha.net
+DOMAIN,www.recaptcha.net
 DOMAIN,ohttp-relay1.fastly-edge.com
 DOMAIN,api.snapkit.com
 DOMAIN-SUFFIX,appsflyersdk.com
@@ -90,3 +90,4 @@ DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-SUFFIX,ttwstatic.com
+DOMAIN,api.revenuecat.com

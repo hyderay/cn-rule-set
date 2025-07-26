@@ -58,6 +58,7 @@ DOMAIN-SUFFIX,oaistatic.com
 
 # Github
 #DOMAIN-KEYWORD,github
+DOMAIN-SUFFIX,github.com
 
 # Whatsapp
 DOMAIN-SUFFIX,whatsapp.net
@@ -98,3 +99,4 @@ DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-SUFFIX,ttwstatic.com
 DOMAIN,api.revenuecat.com
+DOMAIN,firebase-settings.crashlytics.com

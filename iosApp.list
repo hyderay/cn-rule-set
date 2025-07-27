@@ -113,3 +113,4 @@ DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,appcenter.ms
 DOMAIN,ocsp.digicert.com
 DOMAIN,analytics.adjust.io
+DOMAIN-SUFFIX,cloudflare.com

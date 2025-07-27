@@ -70,8 +70,11 @@ DOMAIN-SUFFIX,whatsapp.net
 DOMAIN-SUFFIX,whatsapp.com
 
 # Bankings
-DOMAIN-KEYWORD,monzo
-DOMAIN-KEYWORD,lloyds
+DOMAIN-SUFFIX,monzo.com
+DOMAIN-SUFFIX,monzo-alt.net
+DOMAIN,monzo.statuspage.io
+DOMAIN-SUFFIX,braze.eu
+#DOMAIN-KEYWORD,lloyds
 DOMAIN-SUFFIX,trading212.com
 
 # Anki
@@ -109,3 +112,4 @@ DOMAIN,cdn.branch.io
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,appcenter.ms
 DOMAIN,ocsp.digicert.com
+DOMAIN,analytics.adjust.io

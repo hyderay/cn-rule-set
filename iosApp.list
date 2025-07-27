@@ -114,3 +114,4 @@ DOMAIN-SUFFIX,appcenter.ms
 DOMAIN,ocsp.digicert.com
 DOMAIN,analytics.adjust.io
 DOMAIN-SUFFIX,cloudflare.com
+DOMAIN,mozilla.cloudflare-dns.com

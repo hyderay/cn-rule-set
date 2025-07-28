@@ -77,6 +77,7 @@ DOMAIN,monzo.statuspage.io
 DOMAIN-SUFFIX,braze.eu
 #DOMAIN-KEYWORD,lloyds
 DOMAIN-SUFFIX,trading212.com
+DOMAIN-SUFFIX,bbci.co.uk
 
 # Anki
 DOMAIN,api.ankiapp.com
@@ -116,3 +117,4 @@ DOMAIN,ocsp.digicert.com
 DOMAIN,analytics.adjust.io
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN,mozilla.cloudflare-dns.com
+DOMAIN,www.app-ads-services.com

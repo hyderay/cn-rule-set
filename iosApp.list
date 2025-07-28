@@ -115,3 +115,4 @@ DOMAIN,ocsp.digicert.com
 DOMAIN,analytics.adjust.io
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN,mozilla.cloudflare-dns.com
+DOMAIN,app-analytics-services.com

@@ -33,9 +33,10 @@ DOMAIN-SUFFIX,twitter.jp
 DOMAIN-SUFFIX,x.com
 
 # Google
-DOMAIN-KEYWORD,gmail
-DOMAIN-KEYWORD,google
 DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,google.com
 
 # Youtube
 DOMAIN-SUFFIX,youtube.com
@@ -94,9 +95,11 @@ DOMAIN-SUFFIX,office.net
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,officeapps.live.com
 DOMAIN-SUFFIX,office365.com
+DOMAIN-SUFFIX,microsoftonline.com
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,outlook.com
 
 # Others
-DOMAIN-KEYWORD,microsoft
 DOMAIN,www.recaptcha.net
 DOMAIN,ohttp-relay1.fastly-edge.com
 DOMAIN,api.snapkit.com
@@ -123,3 +126,8 @@ DOMAIN,app-analytics-services.com
 DOMAIN,nom.telemetrydeck.com
 DOMAIN,dispatcher.is.autonavi.com
 DOMAIN,browser-intake-datadoghq.com
+
+# Keywords
+#DOMAIN-KEYWORD,gmail
+#DOMAIN-KEYWORD,google
+#DOMAIN-KEYWORD,microsoft

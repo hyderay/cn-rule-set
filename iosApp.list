@@ -118,3 +118,6 @@ DOMAIN,analytics.adjust.io
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN,mozilla.cloudflare-dns.com
 DOMAIN,www.app-ads-services.com
+DOMAIN-SUFFIX,admaster.cc
+DOMAIN,app-analytics-services.com
+DOMAIN,nom.telemetrydeck.com

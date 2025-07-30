@@ -38,6 +38,7 @@ DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,googlesyndication.com
+DOMAIN,www.googleadservices.com
 
 # Youtube
 DOMAIN-SUFFIX,youtube.com
@@ -99,6 +100,11 @@ DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,microsoftonline.com
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,outlook.com
+
+# Linkedin
+DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,licdn.com
+DOMAIN-SUFFIX,ns1p.net
 
 # Others
 DOMAIN,www.recaptcha.net

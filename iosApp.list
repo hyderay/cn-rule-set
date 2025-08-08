@@ -132,6 +132,7 @@ DOMAIN-SUFFIX,admaster.cc
 DOMAIN,app-analytics-services.com
 DOMAIN,nom.telemetrydeck.com
 DOMAIN,browser-intake-datadoghq.com
+DOMAIN-SUFFIX,ampproject.org
 
 # Keywords
 #DOMAIN-KEYWORD,gmail

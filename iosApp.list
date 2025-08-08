@@ -106,6 +106,9 @@ DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,ns1p.net
 
+# Amazon
+DOMAIN-SUFFIX,amazon.com
+
 # Others
 DOMAIN,www.recaptcha.net
 DOMAIN,ohttp-relay1.fastly-edge.com

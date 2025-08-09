@@ -38,7 +38,7 @@ DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,googlesyndication.com
-DOMAIN,www.googleadservices.com
+DOMAIN-SUFFIX,googleadservices.com
 
 # Youtube
 DOMAIN-SUFFIX,youtube.com
@@ -47,6 +47,7 @@ DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,googlevideo.com
 
 # Discord
 DOMAIN-SUFFIX,discord.gg
